@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Atualmente, trabalho como desenvolvedor backend na ClickSoft. Minha trajetória profissional me levou a explorar diversas áreas, incluindo operações e gestão de equipes em uma empresa de transporte e representação, onde desenvolvi habilidades valiosas em processos, comunicação e relacionamento interpessoal.<br><br>Apesar de ter seguido caminhos diferentes anteriormente, hoje me encontrei no mundo do desenvolvimento. No meu tempo livre, estou dedicado integralmente à programação, participando de cursos, projetos pessoais e desafios como desenvolvedor backend.<br><br>Cursando Análise e Desenvolvimento de Sistemas.</p>
+<p align="left">Atualmente, trabalho como desenvolvedor backend na empresa ClickSoft. Minha trajetória profissional me levou a explorar diversas áreas, incluindo operações e gestão de equipes em uma empresa de transporte e representação, onde desenvolvi habilidades valiosas em processos, comunicação e relacionamento interpessoal.<br><br>Apesar de ter seguido caminhos diferentes anteriormente, hoje me encontrei no mundo do desenvolvimento. No meu tempo livre, estou dedicado integralmente à programação, participando de cursos, projetos pessoais e desafios como desenvolvedor backend.<br><br>Cursando Análise e Desenvolvimento de Sistemas.</p>
 
 ###
 
