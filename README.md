@@ -6,11 +6,14 @@
 
 ###
 
-<p align="left">Atualmente, trabalho como desenvolvedor backend na empresa ClickSoft. Minha trajetória profissional me levou a explorar diversas áreas, incluindo operações e gestão de equipes em uma empresa de transporte e representação, onde desenvolvi habilidades valiosas em processos, comunicação e relacionamento interpessoal.<br><br>Apesar de ter seguido caminhos diferentes anteriormente, hoje me encontrei no mundo do desenvolvimento. No meu tempo livre, estou dedicado integralmente à programação, participando de cursos, projetos pessoais e desafios como desenvolvedor backend.<br><br>Cursando Análise e Desenvolvimento de Sistemas.</p>
+<p align="left">
+Desenvolvedor backend atualmente focado em APIs RESTful com diferentes frameworks e linguagens, sempre buscando conhecimento e aprendizado.<br><br>
+<em>Acredito que "quanto mais você sabe, mais você percebe que nada sabe".</em><br><br>
+Tenho interesse por DevOps e infraestrutura, já atuando com Heroku, AWS EC2, S3 e aplicando as práticas estudadas.<br><br>
+Quando me sobra tempo, desenvolvo alguns projetos pessoais em Python.<br><br>
+Também sou usuário de Arch Linux, BTW<br><br>
+</p>
 
-###
-
-<p align="left">Portfolio:<br>* https://github.com/IanBraga96/Meu_Financeiro/</p>
 
 ###
 
@@ -19,19 +22,23 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+
 </div>
 
 ###
