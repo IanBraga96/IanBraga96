@@ -7,7 +7,7 @@
 ###
 
 <p align="left">
-Desenvolvedor backend atualmente focado em APIs RESTful com diferentes frameworks e linguagens, sempre buscando conhecimento e aprendizado.<br><br>
+Desenvolvedor backend com experiência em APIs RESTful com diferentes frameworks e linguagens, sempre buscando conhecimento e aprendizado.<br><br>
 <em>Acredito que "quanto mais você sabe, mais você percebe que nada sabe".</em><br><br>
 Tenho interesse por DevOps e infraestrutura, já atuando com Heroku, AWS EC2, S3 e aplicando as práticas estudadas.<br><br>
 Quando me sobra tempo, desenvolvo alguns projetos pessoais em Python.<br><br>
