@@ -49,7 +49,7 @@ Também sou usuário de Arch Linux, BTW<br><br>
 
 <div align="center">
   <a href="https://ianbraga.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/portfolio/default.svg" width="52" height="40" alt="portfolio logo" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" height="40" alt="portfolio" />
   </a>
   <!-- <a href="https://www.linkedin.com/in/ian-bragaa/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
