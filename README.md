@@ -1,65 +1,34 @@
-<h1 align="left">Olá, sou Ian Braga! 👋</h1>
-
-###
-
-<h2 align="left">Sobre mim</h2>
-
-###
-
-<p align="left">
-Desenvolvedor backend com experiência em APIs RESTful com diferentes frameworks e linguagens, sempre buscando conhecimento e aprendizado.<br><br>
-<em>Acredito que "quanto mais você sabe, mais você percebe que nada sabe".</em><br><br>
-Tenho interesse por DevOps e infraestrutura, já atuando com Heroku, AWS EC2, S3 e aplicando as práticas estudadas.<br><br>
-Quando me sobra tempo, desenvolvo alguns projetos pessoais em Python.<br><br>
-Também sou usuário de Arch Linux, BTW<br><br>
-</p>
-
-
-###
-
-<h3 align="left">Tenho utilizado as seguintes linguagens em meus projetos:</h3>
-
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
 
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+# Olá, eu sou Ian Braga! 👋
+
+**Software Engineer • Arquitetura de Software • Infraestrutura**
+
+Desenvolvo soluções de ponta a ponta, conectando tecnologia, arquitetura e infraestrutura para construir sistemas escaláveis e sustentáveis.
+
+[![Portfólio](https://img.shields.io/badge/Portfólio-ianbraga.com-111827?style=for-the-badge&logo=firefox&logoColor=white)](https://ianbraga.com/)
+[![E-mail](https://img.shields.io/badge/E--mail-Contato-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@ianbraga.com)
+[![GitHub](https://img.shields.io/badge/GitHub-IanBraga96-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IanBraga96)
 
 </div>
 
-###
+## Sobre mim
 
-<h3 align="left">Mídias sociais:</h3>
+Sou desenvolvedor de software com atuação em **arquitetura de sistemas, desenvolvimento de aplicações e infraestrutura**.
 
-###
+Tenho experiência no desenvolvimento e evolução de soluções **web, mobile e backend**, participando de diferentes etapas do ciclo de vida do software, desde a concepção e definição da arquitetura até a implementação, implantação e manutenção em produção.
 
-<div align="center">
-  <a href="https://ianbraga.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" height="40" alt="portfolio" />
-  </a>
-  <!-- <a href="https://www.linkedin.com/in/ian-bragaa/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a> -->
-  <a href="https://linktr.ee/ianbragaa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo" />
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=5521971495784" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
-  </a>
-</div>
+Atuo também com **infraestrutura em nuvem, modernização de sistemas, integrações e decisões técnicas**, buscando equilibrar qualidade, escalabilidade e necessidades do negócio.
 
-###
+Acredito em soluções bem estruturadas, tecnologias utilizadas com propósito e melhoria contínua.
+
+## Áreas de atuação
+
+- **Arquitetura de software:** Design de sistemas, modelagem de soluções, integrações, microsserviços e escalabilidade.
+- **Desenvolvimento:** Aplicações web, mobile e backend, com diferentes linguagens, frameworks e tecnologias.
+- **Infraestrutura e Cloud:** AWS, Linux, Docker, Nginx, Cloudflare, CI/CD e gerenciamento de ambientes.
+- **Engenharia de software:** Modernização de sistemas, qualidade de código, decisões técnicas e evolução de aplicações em produção.
+
+---
+
+**Mais sobre meu trabalho:** [ianbraga.com](https://ianbraga.com/)
